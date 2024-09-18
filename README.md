@@ -3,7 +3,7 @@
 
 # **NexTech - ALX Portfolio Project** 
 **NexTech: Computer Parts & Tech Shopping App for Mobile**
- **Made by**: Ahmed Abutalib Mahmoud Ali  
+**Made by**: Ahmed Abutalib Mahmoud Ali  
 
 
 
