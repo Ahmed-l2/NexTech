@@ -55,9 +55,7 @@
 
 ---
 
-### **Slide 5: Lessons Learned & Next Steps**  
-**Title**: Lessons Learned & Next Steps  
-**Content**:  
+### **Lessons Learned & Next Steps**  
 - **Lessons Learned**:  
   - **Self-Learning**: Quickly adapting to new technologies, especially in a short time, helped build resilience and problem-solving skills.  
   - **Cross-Platform Development**: Gained insight into mobile app development for both iOS and Android.  
