@@ -9,7 +9,7 @@
 ---
 ### **Preview**
 
-![Alt text]('assets/images/phonecutout.png')
+![Alt text](./assets/images/phonecutout.png)
 
 ---
 ### **Project Overview**
